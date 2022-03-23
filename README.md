@@ -4,7 +4,7 @@
 # Diese kann dann mit dem Server unter https://my-json-server.typicode.com
 # wie folgt verwendet werden.
 
-#How to
+# How to:
 
 # Create a repository on GitHub (<your-username>/<your-repo>)
 # Create a db.json file
