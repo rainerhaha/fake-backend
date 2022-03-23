@@ -1,0 +1,135 @@
+{
+
+    "pcDataSets": [
+
+        {
+
+            "user_principal_name": "rainer.witt@gfn.education",
+            
+            "user_vorname": "Rainer",
+            
+            "user_nachname": "Witt",
+            
+            "rlab_pc_ip_addr": "100.25.76.1",
+            
+            "rlab_pc_user_name":"rainer", 
+            
+            "rlab_pc_password": "hfhfh876",
+            
+            "server_name": "RLAB-Server-1",
+            
+            "rlab_pc_operation_status": "alles gutti"
+            
+        },
+
+        {
+
+            "user_principal_name": "maria.heinz@gfn.education",
+            
+            "user_vorname": "Maria",
+            
+            "user_nachname": "Heinz",
+            
+            "rlab_pc_ip_addr": "100.25.76.2",
+            
+            "rlab_pc_user_name":"maria", 
+            
+            "rlab_pc_password": "re435#vdfe",
+            
+            "server_name": "RLAB-Server-1",
+            
+            "rlab_pc_operation_status": "mysteriöser Fehler aufgetreten"
+            
+        },
+
+        {
+
+            "user_principal_name": "tony.peters@gfn.education",
+            
+            "user_vorname": "Tony",
+            
+            "user_nachname": "Peters",
+            
+            "rlab_pc_ip_addr": "100.25.76.3",
+            
+            "rlab_pc_user_name":"tony", 
+            
+            "rlab_pc_password": "hg877#?hg",
+            
+            "server_name": "RLAB-Server-2",
+            
+            "rlab_pc_operation_status": "unbekannt"
+            
+        }
+
+    ],
+
+    "userDataSets": [
+
+        {  
+            
+            "user_principal_name": "rainer.witt@gfn.education",
+
+            "user_vorname": "Rainer",
+                    
+            "user_nachname": "Witt",
+        
+            "rlab_pc_user_name":"rainer", 
+                    
+            "rlab_pc_password": "hfhfh876",
+            
+            "server_name": "RLAB-Server-1",
+        
+            "user_email_addr": "rainer.witthh@web.de",
+        
+            "gfn_standort": "Hamburg"
+        
+        },
+
+        {  
+            
+            "user_principal_name": "maria.heinz@gfn.education",
+
+            "user_vorname": "Maria",
+                    
+            "user_nachname": "Heinz",
+        
+            "rlab_pc_user_name":"maria", 
+                    
+            "rlab_pc_password": "re435#vdfe",
+            
+            "server_name": "RLAB-Server-1",
+        
+            "user_email_addr": "rainer.witthh@web.de",
+        
+            "gfn_standort": "Köln"
+        
+        },
+
+        {
+
+            "user_principal_name": "tony.peters@gfn.education",
+            
+            "user_vorname": "Tony",
+            
+            "user_nachname": "Peters",
+            
+            "rlab_pc_user_name":"tony", 
+            
+            "rlab_pc_password": "hg877#?hg",
+            
+            "server_name": "RLAB-Server-2",
+
+            "user_email_addr": "tonypeters39@gmail.com",
+            
+            "gfn_standort": "Berlin"
+            
+        }
+
+    ],
+
+    "profile": { "name": "typicode" }
+  }
+
+
+
