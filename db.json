@@ -5,11 +5,11 @@
         {
             "id": 1,
 
-            "user_principal_name": "rainer.witt@gfn.education",
+            "user_principal_name": "rainer.witz@gfn.education",
             
             "user_vorname": "Rainer",
             
-            "user_nachname": "Witt",
+            "user_nachname": "Witz",
             
             "rlab_pc_ip_addr": "100.25.76.1",
             
@@ -26,11 +26,11 @@
         {
             "id": 2,
 
-            "user_principal_name": "maria.heinz@gfn.education",
+            "user_principal_name": "maria.shell@gfn.education",
             
             "user_vorname": "Maria",
             
-            "user_nachname": "Heinz",
+            "user_nachname": "Shell",
             
             "rlab_pc_ip_addr": "100.25.76.2",
             
@@ -72,11 +72,11 @@
         {  
             "id": 1,
             
-            "user_principal_name": "rainer.witt@gfn.education",
+            "user_principal_name": "rainer.witz@gfn.education",
 
             "user_vorname": "Rainer",
                     
-            "user_nachname": "Witt",
+            "user_nachname": "Witz",
         
             "rlab_pc_user_name":"rainer", 
                     
@@ -93,11 +93,11 @@
         {  
             "id": 2,
 
-            "user_principal_name": "maria.heinz@gfn.education",
+            "user_principal_name": "maria.shell@gfn.education",
 
             "user_vorname": "Maria",
                     
-            "user_nachname": "Heinz",
+            "user_nachname": "Shell",
         
             "rlab_pc_user_name":"maria", 
                     
@@ -105,7 +105,7 @@
             
             "server_name": "RLAB-Server-1",
         
-            "user_email_addr": "maria.heinz@web.de",
+            "user_email_addr": "maria.shell@web.de",
         
             "gfn_standort": "Köln"
         
@@ -126,7 +126,7 @@
             
             "server_name": "RLAB-Server-2",
 
-            "user_email_addr": "tony.peters@gmail.com",
+            "user_email_addr": "tony.peters@hmail.com",
             
             "gfn_standort": "Berlin"
             
