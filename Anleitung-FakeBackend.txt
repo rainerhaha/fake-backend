@@ -33,7 +33,7 @@ http://my-json-server.typicode.com/rainerhaha/fake-backend/pcDataSets/1
 
 Du kannst auch nach Datenobjekten mit bestimmten Einträgen filtern:
 
-http://my-json-server.typicode.com/rainerhaha/fake-backend/pcDataSets/?user_principal_name=rainer.witt@gfn.education
+http://my-json-server.typicode.com/rainerhaha/fake-backend/pcDataSets/?user_principal_name=rainer.witz@gfn.education
 
 oder 
 
