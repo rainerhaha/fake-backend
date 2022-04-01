@@ -3,6 +3,7 @@
     "pcDataSets": [
 
         {
+            "id": 1,
 
             "user_principal_name": "rainer",
             
@@ -23,6 +24,7 @@
         },
 
         {
+            "id": 2,
 
             "user_principal_name": "maria.heinz@gfn.education",
             
@@ -43,6 +45,7 @@
         },
 
         {
+            "id": 3,
 
             "user_principal_name": "tony.peters@gfn.education",
             
@@ -67,6 +70,7 @@
     "userDataSets": [
 
         {  
+            "id": 1,
             
             "user_principal_name": "rainer.witt@gfn.education",
 
@@ -87,7 +91,8 @@
         },
 
         {  
-            
+            "id": 2,
+
             "user_principal_name": "maria.heinz@gfn.education",
 
             "user_vorname": "Maria",
@@ -107,6 +112,7 @@
         },
 
         {
+            "id": 3,
 
             "user_principal_name": "tony.peters@gfn.education",
             
