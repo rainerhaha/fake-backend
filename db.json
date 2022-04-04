@@ -3,7 +3,6 @@
     "pcDataSets": [
 
         {
-            "id": 1,
 
             "user_principal_name": "rainer.witz@gfn.education",
             
@@ -24,7 +23,6 @@
         },
 
         {
-            "id": 2,
 
             "user_principal_name": "maria.shell@gfn.education",
             
@@ -45,7 +43,6 @@
         },
 
         {
-            "id": 3,
 
             "user_principal_name": "tony.peters@gfn.education",
             
@@ -70,7 +67,6 @@
     "userDataSets": [
 
         {  
-            "id": 1,
             
             "user_principal_name": "rainer.witz@gfn.education",
 
@@ -84,15 +80,14 @@
             
             "server_name": "RLAB-Server-1",
         
-            "user_email_addr": "rainer.witz@web.de",
+            "user_email_addr": "rainer.witt@web.de",
         
             "gfn_standort": "Hamburg"
         
         },
 
         {  
-            "id": 2,
-
+            
             "user_principal_name": "maria.shell@gfn.education",
 
             "user_vorname": "Maria",
@@ -112,7 +107,6 @@
         },
 
         {
-            "id": 3,
 
             "user_principal_name": "tony.peters@gfn.education",
             
@@ -126,7 +120,7 @@
             
             "server_name": "RLAB-Server-2",
 
-            "user_email_addr": "tony.peters@hmail.com",
+            "user_email_addr": "tonypeters39@hmail.com",
             
             "gfn_standort": "Berlin"
             
