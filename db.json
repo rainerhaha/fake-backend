@@ -1,18 +1,23 @@
-{
+﻿{
 
     "pcDataSets": [
 
         {
+            "id": 1,
 
             "user_principal_name": "rainer.witz@gfn.education",
+
+            "upn_req_owner": "rainer.witz@gfn.education",
             
             "user_vorname": "Rainer",
             
             "user_nachname": "Witz",
+
+            "rlab_pc_name": "RLAB-PC-1",
             
             "rlab_pc_ip_addr": "100.25.76.1",
             
-            "rlab_pc_user_name":"rainer", 
+            "rlab_pc_user_name": "rainer", 
             
             "rlab_pc_password": "hfhfh876",
             
@@ -24,15 +29,21 @@
 
         {
 
+            "id": 2,
+
             "user_principal_name": "maria.shell@gfn.education",
+
+            "upn_req_owner": "maria.shell@gfn.education",
             
             "user_vorname": "Maria",
             
             "user_nachname": "Shell",
+
+            "rlab_pc_name": "RLAB-PC-2",
             
             "rlab_pc_ip_addr": "100.25.76.2",
             
-            "rlab_pc_user_name":"maria", 
+            "rlab_pc_user_name": "maria", 
             
             "rlab_pc_password": "re435#vdfe",
             
@@ -44,15 +55,21 @@
 
         {
 
+            "id": 3,
+
             "user_principal_name": "tony.peters@gfn.education",
+
+            "upn_req_owner": "tony.peters@gfn.education",
             
             "user_vorname": "Tony",
             
             "user_nachname": "Peters",
+
+            "rlab_pc_name": "RLAB-PC-3",
             
             "rlab_pc_ip_addr": "100.25.76.3",
             
-            "rlab_pc_user_name":"tony", 
+            "rlab_pc_user_name": "tony", 
             
             "rlab_pc_password": "hg877#?hg",
             
@@ -67,14 +84,19 @@
     "userDataSets": [
 
         {  
+            "id": 1,
             
             "user_principal_name": "rainer.witz@gfn.education",
+
+            "upn_req_owner": "rainer.witz@gfn.education",
 
             "user_vorname": "Rainer",
                     
             "user_nachname": "Witz",
+
+            "rlab_pc_name": "RLAB-PC-1",
         
-            "rlab_pc_user_name":"rainer", 
+            "rlab_pc_user_name": "rainer", 
                     
             "rlab_pc_password": "hfhfh876",
             
@@ -87,14 +109,19 @@
         },
 
         {  
+            "id": 2,
             
             "user_principal_name": "maria.shell@gfn.education",
+
+            "upn_req_owner": "maria.shell@gfn.education",
 
             "user_vorname": "Maria",
                     
             "user_nachname": "Shell",
+
+            "rlab_pc_name": "RLAB-PC-2",
         
-            "rlab_pc_user_name":"maria", 
+            "rlab_pc_user_name": "maria", 
                     
             "rlab_pc_password": "re435#vdfe",
             
@@ -108,13 +135,19 @@
 
         {
 
+            "id": 3,
+
             "user_principal_name": "tony.peters@gfn.education",
+
+            "upn_req_owner": "tony.peters@gfn.education",
             
             "user_vorname": "Tony",
             
             "user_nachname": "Peters",
+
+            "rlab_pc_name": "RLAB-PC-3",
             
-            "rlab_pc_user_name":"tony", 
+            "rlab_pc_user_name": "tony", 
             
             "rlab_pc_password": "hg877#?hg",
             
@@ -128,8 +161,203 @@
 
     ],
 
+    "pcUserOps": [
+
+        {
+
+            "id": 1,
+
+            "name": "start",
+
+            "upn_req_owner": "tony.peters@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 2,
+
+            "name": "stop",
+
+            "upn_req_owner": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 4,
+
+            "name": "read_data_set",
+
+            "upn_req_owner": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 5,
+
+            "name": "restart",
+
+            "upn_req_owner":"maria.shell@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 7,
+
+            "name": "recreate",
+
+            "upn_req_owner": "maria.shell@gfn.education",
+
+            "exec_status": "OK"
+
+        }
+
+    ],
+
+    "pcSupervisorOps": [
+
+        {
+
+            "id": 1,
+
+            "name": "start",
+
+            "upn_req_owner": "ausbilder.schmidt@gfn.education",
+
+            "upn_req_recipient": "tony.peters@gfn.de",
+
+            "gfn_course_name": "GFN-Kurs-100",
+
+            "gfn_class_name": "GFN-Klasse-2020-09",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 2,
+
+            "name": "stop",
+
+            "upn_req_owner": "trainer.Hansen@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-200",
+
+            "gfn_class_name": "GFN-Klasse-2020-07",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 3,
+
+            "name": "create",
+
+            "upn_req_owner": "trainer.Peschel@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-305",
+
+            "gfn_class_name": "GFN-Klasse-2021-06",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 4,
+
+            "name": "read_data_set",
+
+            "upn_req_owner": "trainer.Martens@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-310",
+
+            "gfn_class_name": "GFN-Klasse-2021-03",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 5,
+
+            "name": "restart",
+
+            "upn_req_owner": "ausbilder.schmidt@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-330",
+
+            "gfn_class_name": "GFN-Klasse-2022-03",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 6,
+
+            "name": "delete",
+
+            "upn_req_owner": "trainer.Peschel@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-440",
+
+            "gfn_class_name": "GFN-Klasse-2019-03",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 7,
+
+            "name": "recreate",
+
+            "upn_req_owner": "trainer.Martens@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "gfn_course_name": "GFN-Kurs-315",
+
+            "gfn_class_name": "GFN-Klasse-2021-10",
+
+            "exec_status": "OK"
+
+        }
+
+    ],
+
     "profile": { "name": "typicode" }
   }
+
 
 
 
