@@ -10,11 +10,11 @@ Dann gibt es weitere Unterverzeichnisse, um auf die Daten zugreifen zu
 
 können.
 
-Hier gibt es zur Zeit zwei Unterverzeichnisse:
+Hier gibt es die beiden Unterverzeichnisse:
 
-1.) /pcDataSets
+**1.) /pcDataSets**
 
-2.) /userDataSets
+**2.) /userDataSets**
 
 
 Ein pcDataSet-Objekt repräsentiert einen kompletten Datensatz zu einem Rlab-PC
@@ -86,7 +86,11 @@ http://my-json-server.typicode.com/rainerhaha/fake-backend/pcUserOps/1/?upn_req_
 
 Die Autorisierung für die Anforderung der Ausführung einer bestimmten Supervisor-Operation durchführen:
 
-http://my-json-server.typicode.com/rainerhaha/fake-backend/pcSupervisorOps/1/?upn_req_owner=trainer.martens@gfn.education&upn_req_recipient=tony.peters@gfn.education&gfn_course_name=GFN-Kurs-330&gfn_class_name=GFN-Klasse-2021-10
+http://my-json-server.typicode.com/rainerhaha/fake-backend/pcSupervisorOps/1/
+
+?upn_req_owner=trainer.martens@gfn.education&upn_req_recipient=tony.peters@gfn.education
+
+&gfn_course_name=GFN-Kurs-330&gfn_class_name=GFN-Klasse-2021-10
 
 Hier wird immer zusätzlich auch der user principal name des Teilnehmers sowie der Kurs-Name und der Klassen-Name benötigt.
 
