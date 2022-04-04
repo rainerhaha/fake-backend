@@ -251,7 +251,7 @@
 
             "name": "stop",
 
-            "upn_req_owner": "trainer.Hansen@gfn.education",
+            "upn_req_owner": "trainer.hansen@gfn.education",
 
             "upn_req_recipient": "rainer.witz@gfn.education",
 
@@ -269,7 +269,7 @@
 
             "name": "create",
 
-            "upn_req_owner": "trainer.Peschel@gfn.education",
+            "upn_req_owner": "trainer.peschel@gfn.education",
 
             "upn_req_recipient": "maria.shell@gfn.education",
 
@@ -287,7 +287,7 @@
 
             "name": "read_data_set",
 
-            "upn_req_owner": "trainer.Martens@gfn.education",
+            "upn_req_owner": "trainer.martens@gfn.education",
 
             "upn_req_recipient": "rainer.witz@gfn.education",
 
@@ -323,7 +323,7 @@
 
             "name": "delete",
 
-            "upn_req_owner": "trainer.Peschel@gfn.education",
+            "upn_req_owner": "trainer.peschel@gfn.education",
 
             "upn_req_recipient": "rainer.witz@gfn.education",
 
@@ -341,7 +341,7 @@
 
             "name": "recreate",
 
-            "upn_req_owner": "trainer.Martens@gfn.education",
+            "upn_req_owner": "trainer.martens@gfn.education",
 
             "upn_req_recipient": "rainer.witz@gfn.education",
 
