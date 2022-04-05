@@ -221,6 +221,30 @@
 
             "exec_status": "OK"
 
+        },
+
+        {
+
+            "id": 8,
+
+            "name": "reset_network_cfg",
+
+            "upn_req_owner":"rainer.witz@gfn.education",
+
+            "exec_status":"OK"
+
+        },
+
+        {
+
+            "id": 9,
+
+            "name": "change_pwd",
+
+            "upn_req_owner":"tony.peters@gfn.education",
+
+            "exec_status": "OK"
+
         }
 
     ],
@@ -348,6 +372,42 @@
             "gfn_course_name": "GFN-Kurs-315",
 
             "gfn_class_name": "GFN-Klasse-2021-10",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 8,
+
+            "name": "reset_network_cfg",
+
+            "upn_req_owner":"trainer.hansen@gfn.education",
+
+            "upn_req_recipient": "tony.peters@gfn.de",
+
+            "gfn_course_name": "GFN-Kurs-440",
+
+            "gfn_class_name":"GFN-Klasse-2020-07",
+
+            "exec_status":"OK"
+
+        },
+
+        {
+
+            "id": 9,
+
+            "name": "change_pwd",
+
+            "upn_req_owner":"ausbilder.schmidt@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "gfn_course_name":"GFN-Kurs-310",
+
+            "gfn_class_name":"GFN-Klasse-2020-09",
 
             "exec_status": "OK"
 
