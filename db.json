@@ -21,7 +21,7 @@
             
             "rlab_pc_password": "hfhfh876",
             
-            "server_name": "RLAB-Server-1",
+            "rlab_server_name": "RLAB-Server-1",
             
             "rlab_pc_operation_status": "alles gutti"
             
@@ -47,7 +47,7 @@
             
             "rlab_pc_password": "re435#vdfe",
             
-            "server_name": "RLAB-Server-1",
+            "rlab_server_name": "RLAB-Server-1",
             
             "rlab_pc_operation_status": "mysteriöser Fehler aufgetreten"
             
@@ -73,7 +73,7 @@
             
             "rlab_pc_password": "hg877#?hg",
             
-            "server_name": "RLAB-Server-2",
+            "rlab_server_name": "RLAB-Server-2",
             
             "rlab_pc_operation_status": "unbekannt"
             
@@ -100,7 +100,7 @@
                     
             "rlab_pc_password": "hfhfh876",
             
-            "server_name": "RLAB-Server-1",
+            "rlab_server_name": "RLAB-Server-1",
         
             "user_email_addr": "rainer.witt@web.de",
         
@@ -125,7 +125,7 @@
                     
             "rlab_pc_password": "re435#vdfe",
             
-            "server_name": "RLAB-Server-1",
+            "rlab_server_name": "RLAB-Server-1",
         
             "user_email_addr": "maria.shell@web.de",
         
@@ -151,7 +151,7 @@
             
             "rlab_pc_password": "hg877#?hg",
             
-            "server_name": "RLAB-Server-2",
+            "rlab_server_name": "RLAB-Server-2",
 
             "user_email_addr": "tonypeters39@hmail.com",
             
@@ -205,7 +205,7 @@
 
             "name": "restart",
 
-            "upn_req_owner":"maria.shell@gfn.education",
+            "upn_req_owner": "maria.shell@gfn.education",
 
             "exec_status": "OK"
 
@@ -229,7 +229,7 @@
 
             "name": "reset_network_cfg",
 
-            "upn_req_owner":"rainer.witz@gfn.education",
+            "upn_req_owner": "rainer.witz@gfn.education",
 
             "exec_status":"OK"
 
@@ -241,7 +241,7 @@
 
             "name": "change_pwd",
 
-            "upn_req_owner":"tony.peters@gfn.education",
+            "upn_req_owner": "tony.peters@gfn.education",
 
             "exec_status": "OK"
 
@@ -389,9 +389,9 @@
 
             "gfn_course_name": "GFN-Kurs-440",
 
-            "gfn_class_name":"GFN-Klasse-2020-07",
+            "gfn_class_name": "GFN-Klasse-2020-07",
 
-            "exec_status":"OK"
+            "exec_status": "OK"
 
         },
 
@@ -401,13 +401,13 @@
 
             "name": "change_pwd",
 
-            "upn_req_owner":"ausbilder.schmidt@gfn.education",
+            "upn_req_owner": "ausbilder.schmidt@gfn.education",
 
             "upn_req_recipient": "maria.shell@gfn.education",
 
-            "gfn_course_name":"GFN-Kurs-310",
+            "gfn_course_name": "GFN-Kurs-310",
 
-            "gfn_class_name":"GFN-Klasse-2020-09",
+            "gfn_class_name": "GFN-Klasse-2020-09",
 
             "exec_status": "OK"
 
