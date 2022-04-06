@@ -245,6 +245,18 @@
 
             "exec_status": "OK"
 
+        },
+
+        {
+
+            "id": 10,
+
+            "name": "reset_pwd",
+
+            "upn_req_owner": "ausbilder.schmidt@gfn.education",
+
+            "exec_status": "OK"
+
         }
 
     ],
@@ -408,6 +420,24 @@
             "gfn_course_name": "GFN-Kurs-310",
 
             "gfn_class_name": "GFN-Klasse-2020-09",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 10,
+
+            "name": "reset_pwd",
+
+            "upn_req_owner": "trainer.martens@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "gfn_course_name":"GFN-Kurs-100",
+
+            "gfn_class_name":"GFN-Klasse-2021-06",
 
             "exec_status": "OK"
 
