@@ -213,33 +213,6 @@
             "user_email_addr": "trainer.hansen@web.de",
         
             "gfn_standort": "Berlin"
-        },
-
-        {
-
-            "id": 6,
-
-            "user_principal_name": "trainer.peschel@gfn.education",
-
-            "user_vorname": "Trainer",
-                    
-            "user_nachname": "Peschel",
-
-            "user_role": "Trainer",
-
-            "rlab_pc_name": "RLAB-PC-6",
-        
-            "rlab_pc_user_name": "trainer-peschel", 
-                    
-            "rlab_pc_password": "qwertzu123456",
-            
-            "rlab_server_name": "RLAB-Server-2",
-        
-            "user_email_addr": "trainer.peschel@web.de",
-        
-            "gfn_standort": "Köln"
-
-
         }
 
     ],
