@@ -163,33 +163,7 @@
             
             "gfn_standort": "Berlin"
             
-        },
-
-        {
-
-            "id": 4,
-
-            "user_principal_name": "ausbilder.schmidt@gfn.education",
-
-            "user_vorname": "Ausbilder",
-                    
-            "user_nachname": "Schmidt",
-
-            "user_role": "Trainer",
-
-            "rlab_pc_name": "RLAB-PC-4",
-        
-            "rlab_pc_user_name": "ausbilder-schmidt", 
-                    
-            "rlab_pc_password": "jhgf5433",
-            
-            "rlab_server_name": "RLAB-Server-1",
-        
-            "user_email_addr": "ausbilder.schmidt@web.de",
-        
-            "gfn_standort": "Hamburg"
         }
-
     ],
 
     "pcUserOps": [
