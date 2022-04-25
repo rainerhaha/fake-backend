@@ -94,6 +94,8 @@
                     
             "user_nachname": "Witz",
 
+            "user_role": "Teilnehmer",
+
             "rlab_pc_name": "RLAB-PC-1",
         
             "rlab_pc_user_name": "rainer", 
@@ -102,7 +104,7 @@
             
             "rlab_server_name": "RLAB-Server-1",
         
-            "user_email_addr": "rainer.witt@web.de",
+            "user_email_addr": "rainer.witz@web.de",
         
             "gfn_standort": "Hamburg"
         
@@ -118,6 +120,8 @@
             "user_vorname": "Maria",
                     
             "user_nachname": "Shell",
+
+            "user_role": "Teilnehmer",
 
             "rlab_pc_name": "RLAB-PC-2",
         
@@ -145,6 +149,8 @@
             
             "user_nachname": "Peters",
 
+            "user_role": "Teilnehmer",
+
             "rlab_pc_name": "RLAB-PC-3",
             
             "rlab_pc_user_name": "tony", 
@@ -153,10 +159,87 @@
             
             "rlab_server_name": "RLAB-Server-2",
 
-            "user_email_addr": "tonypeters39@hmail.com",
+            "user_email_addr": "tonypeters@hmail.com",
             
             "gfn_standort": "Berlin"
             
+        },
+
+        {
+
+            "id": 4,
+
+            "user_principal_name": "ausbilder.schmidt@gfn.education",
+
+            "user_vorname": "Ausbilder",
+                    
+            "user_nachname": "Schmidt",
+
+            "user_role": "Trainer",
+
+            "rlab_pc_name": "RLAB-PC-4",
+        
+            "rlab_pc_user_name": "ausbilder-schmidt", 
+                    
+            "rlab_pc_password": "jhgf5433",
+            
+            "rlab_server_name": "RLAB-Server-1",
+        
+            "user_email_addr": "ausbilder.schmidt@web.de",
+        
+            "gfn_standort": "Hamburg"
+        },
+
+        {
+
+            "id": 5,
+
+            "user_principal_name": "trainer.hansen@gfn.education",
+
+            "user_vorname": "Trainer",
+                    
+            "user_nachname": "Hansen",
+
+            "user_role": "Trainer",
+
+            "rlab_pc_name": "RLAB-PC-5",
+        
+            "rlab_pc_user_name": "trainer-hansen", 
+                    
+            "rlab_pc_password": "lkh65fder",
+            
+            "rlab_server_name": "RLAB-Server-2",
+        
+            "user_email_addr": "trainer.hansen@web.de",
+        
+            "gfn_standort": "Berlin"
+        },
+
+        {
+
+            "id": 6,
+
+            "user_principal_name": "trainer.peschel@gfn.education",
+
+            "user_vorname": "Trainer",
+                    
+            "user_nachname": "Peschel",
+
+            "user_role": "Trainer",
+
+            "rlab_pc_name": "RLAB-PC-6",
+        
+            "rlab_pc_user_name": "trainer-peschel", 
+                    
+            "rlab_pc_password": "qwertzu123456",
+            
+            "rlab_server_name": "RLAB-Server-2",
+        
+            "user_email_addr": "trainer.peschel@web.de",
+        
+            "gfn_standort": "Köln"
+
+
         }
 
     ],
@@ -442,6 +525,151 @@
             "exec_status": "OK"
 
         }
+
+    ],
+
+    "pcSuperuserOps": [
+
+        {
+
+            "id": 1,
+
+            "name": "start",
+
+            "upn_req_owner": "admin.mayer@gfn.education",
+
+            "upn_req_recipient": "tony.peters@gfn.de",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 2,
+
+            "name": "stop",
+
+            "upn_req_owner": "admin.petersen@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 3,
+
+            "name": "create",
+
+            "upn_req_owner": "admin.hanswurst@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 4,
+
+            "name": "read_data_set",
+
+            "upn_req_owner": "admin.mayer@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 5,
+
+            "name": "restart",
+
+            "upn_req_owner": "admin.petersen@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 6,
+
+            "name": "delete",
+
+            "upn_req_owner": "admin.hanswurst@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 7,
+
+            "name": "recreate",
+
+            "upn_req_owner": "admin.mayer@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 8,
+
+            "name": "reset_network_cfg",
+
+            "upn_req_owner":"admin.petersen@gfn.education",
+
+            "upn_req_recipient": "tony.peters@gfn.de",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 9,
+
+            "name": "change_pwd",
+
+            "upn_req_owner": "admin.hanswurst@gfn.education",
+
+            "upn_req_recipient": "maria.shell@gfn.education",
+
+            "exec_status": "OK"
+
+        },
+
+        {
+
+            "id": 10,
+
+            "name": "reset_pwd",
+
+            "upn_req_owner": "admin.mayer@gfn.education",
+
+            "upn_req_recipient": "rainer.witz@gfn.education",
+
+            "exec_status": "OK"
+
+        }
+
 
     ],
 
