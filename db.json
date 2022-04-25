@@ -360,24 +360,6 @@
 
         {
 
-            "id": 6,
-
-            "name": "delete",
-
-            "upn_req_owner": "trainer.peschel@gfn.education",
-
-            "upn_req_recipient": "rainer.witz@gfn.education",
-
-            "gfn_course_name": "GFN-Kurs-440",
-
-            "gfn_class_name": "GFN-Klasse-2019-03",
-
-            "exec_status": "OK"
-
-        },
-
-        {
-
             "id": 7,
 
             "name": "recreate",
@@ -407,42 +389,6 @@
             "gfn_course_name": "GFN-Kurs-440",
 
             "gfn_class_name": "GFN-Klasse-2020-07",
-
-            "exec_status": "OK"
-
-        },
-
-        {
-
-            "id": 9,
-
-            "name": "change_pwd",
-
-            "upn_req_owner": "ausbilder.schmidt@gfn.education",
-
-            "upn_req_recipient": "maria.shell@gfn.education",
-
-            "gfn_course_name": "GFN-Kurs-310",
-
-            "gfn_class_name": "GFN-Klasse-2020-09",
-
-            "exec_status": "OK"
-
-        },
-
-        {
-
-            "id": 10,
-
-            "name": "reset_pwd",
-
-            "upn_req_owner": "trainer.martens@gfn.education",
-
-            "upn_req_recipient": "rainer.witz@gfn.education",
-
-            "gfn_course_name":"GFN-Kurs-100",
-
-            "gfn_class_name":"GFN-Klasse-2021-06",
 
             "exec_status": "OK"
 
